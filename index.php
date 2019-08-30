@@ -59,7 +59,7 @@ $alias_second_success = $AliasMatch->SecondAliases();
             <h1>Drupal Transpo</h1>
             <div id="menu">
                 <ul class="toplinks">
-                    <li><a href="https://github.com/dubrod/WPtranspo" target="_blank">Github Repo</a></li>
+                    <li><a href="https://github.com/dubrod/DrupalTranspo" target="_blank">Github Repo</a></li>
                 </ul>
             </div>
             <a id="menu-toggle" href="#" class=" ">&#9776;</a> </div>
