@@ -51,7 +51,6 @@ $alias_second_success = $AliasMatch->SecondAliases();
     <title>Drupal Transpo</title>
     <link href="http://fonts.googleapis.com/css?family=Raleway:700,300" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/prettify.css">
 </head>
 
 <body>
